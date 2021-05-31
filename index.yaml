@@ -3,11 +3,11 @@ entries:
   aws-es-kibana:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-05-31T23:18:31.614183988+03:00"
+    created: "2021-05-31T23:29:21.517980637+03:00"
     description: A Helm chart for Kubernetes
     digest: de8c8543e3dea08b432f000e4ba2e2babf1fc3bb12f551b1278f20ca813b96df
     name: aws-es-kibana
     urls:
-    - https://AndriiPopok.github.io/ll/aws-es-kibana-0.1.1.tgz
+    - https://andriipopok.github.io/ll/aws-es-kibana-0.1.1.tgz
     version: 0.1.1
-generated: "2021-05-31T23:18:31.613151087+03:00"
+generated: "2021-05-31T23:29:21.516747133+03:00"
